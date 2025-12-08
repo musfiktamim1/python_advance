@@ -1,0 +1,12 @@
+x = min(10,20,30)
+y = max(20,30,40)
+print(x)
+print(y)
+
+x = abs(-100)
+y = pow(10,2)
+# z = math.sqrt(49)
+z = math.ceil()
+print(x)
+print(y)
+print(z)
